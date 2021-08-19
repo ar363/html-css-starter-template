@@ -1,42 +1,37 @@
+/* custom styles go here */
+
+
+
+/* ------------------- */
+/* Some utility styles */
+/* ------------------- */
+
+
+/* Font size  */
+
 /*
 1.333 type scale
 learn more at https://type-scale.com/
 */
 
-.size-2xs {
-    font-size: 0.422rem;
-}
+.size-2xs { font-size: 0.422rem; }
+.size-xs { font-size: 0.563rem; }
+.size-sm { font-size: 0.75rem; }
+.size-md { font-size: 1rem; }
+.size-lg { font-size: 1.333rem; }
+.size-xl { font-size: 1.777rem; }
+.size-2xl { font-size: 2.369rem; }
+.size-3xl { font-size: 3.157rem; }
+.size-4xl { font-size: 4.209rem; }
 
-.size-xs {
-    font-size: 0.563rem;
-}
+/* Font weight */
 
-.size-sm {
-    font-size: 0.75rem;
-}
-
-.size-md {
-    font-size: 1rem;
-}
-
-.size-lg {
-    font-size: 1.333rem;
-}
-
-.size-xl {
-    font-size: 1.777rem;
-}
-
-.size-2xl {
-    font-size: 2.369rem;
-}
-
-.size-3xl {
-    font-size: 3.157rem;
-}
-
-.size-4xl {
-    font-size: 4.209rem;
-}
-
-/* styles go here */
+.weight-100 { font-weight: 100; }
+.weight-200 { font-weight: 200; }
+.weight-300 { font-weight: 300; }
+.weight-400 { font-weight: 400; }
+.weight-500 { font-weight: 500; }
+.weight-600 { font-weight: 600; }
+.weight-700 { font-weight: 700; }
+.weight-800 { font-weight: 800; }
+.weight-900 { font-weight: 900; }
