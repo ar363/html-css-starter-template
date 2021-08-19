@@ -1,1 +1,42 @@
+/*
+1.333 type scale
+learn more at https://type-scale.com/
+*/
+
+.size-2xs {
+    font-size: 0.422rem;
+}
+
+.size-xs {
+    font-size: 0.563rem;
+}
+
+.size-sm {
+    font-size: 0.75rem;
+}
+
+.size-md {
+    font-size: 1rem;
+}
+
+.size-lg {
+    font-size: 1.333rem;
+}
+
+.size-xl {
+    font-size: 1.777rem;
+}
+
+.size-2xl {
+    font-size: 2.369rem;
+}
+
+.size-3xl {
+    font-size: 3.157rem;
+}
+
+.size-4xl {
+    font-size: 4.209rem;
+}
+
 /* styles go here */
