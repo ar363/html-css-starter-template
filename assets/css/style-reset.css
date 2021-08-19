@@ -1,6 +1,7 @@
 html,
 body,
 p,
+a,
 ol,
 ul,
 li,
@@ -12,6 +13,7 @@ figure,
 fieldset,
 legend,
 textarea,
+button,
 pre,
 code,
 kbd,
@@ -44,6 +46,13 @@ button,
 input,
 select {
   margin: 0;
+  border: none;
+  background-color: transparent;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }
 
 html {
